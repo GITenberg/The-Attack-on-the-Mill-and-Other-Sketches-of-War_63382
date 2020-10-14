@@ -1,0 +1,42 @@
+_repo: The-Attack-on-the-Mill-and-Other-Sketches-of-War_63382
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Gosse, Edmund
+    aliases:
+    - Gosse, Edmund William, Sir
+    - Gosse, Edmund W. (Edmund William)
+    birthdate: 1849
+    deathdate: 1928
+    gutenberg_agent_id: '959'
+    url: http://www.gutenberg.org/2009/agents/959
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Gosse
+creator:
+  author:
+    agent_name: Zola, Émile
+    aliases:
+    - Zola, Emile
+    - Zola, Émile Édouard Charles Antoine
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '528'
+    url: http://www.gutenberg.org/2009/agents/528
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Émile_Zola
+    - https://fr.wikipedia.org/wiki/%C3%89mile_Zola
+description: ''
+gutenberg_issued: '2020-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63382'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'War stories'
+- GITenberg
+tableOfContents: Essay by Mr. Gosse -- The attack on the mill -- Three wars.
+title: The Attack on the Mill, and Other Sketches of War
+url: http://www.gutenberg.org/ebooks/63382
