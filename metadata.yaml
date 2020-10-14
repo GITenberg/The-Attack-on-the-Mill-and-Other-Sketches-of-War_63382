@@ -1,5 +1,5 @@
 _repo: The-Attack-on-the-Mill-and-Other-Sketches-of-War_63382
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Gosse, Edmund
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '959'
     url: http://www.gutenberg.org/2009/agents/959
     wikipedia: http://en.wikipedia.org/wiki/Edmund_Gosse
+covers:
+- cover_type: archival
+  image_path: 63382-h/images/cover.jpg
 creator:
   author:
     agent_name: Zola, Émile
@@ -25,6 +28,8 @@ creator:
     - https://en.wikipedia.org/wiki/Émile_Zola
     - https://fr.wikipedia.org/wiki/%C3%89mile_Zola
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63382#The-Attack-on-the-Mill-and-Other-Sketches-of-War
 gutenberg_issued: '2020-10-05'
 gutenberg_type: Text
 identifiers:
